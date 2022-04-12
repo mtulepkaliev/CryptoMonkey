@@ -1,6 +1,6 @@
 # CryptoMonkey
-A monkey can outerperfrom the stock market
-So why not the crypto market as well
+A monkey can outerperfrom the stock market<br />
+So why not the crypto market as well<br />
 Program that randomly trades cryptocurrency at random intervals 
 
 ## DISCLAIMER
